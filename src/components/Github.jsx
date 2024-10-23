@@ -35,7 +35,8 @@ const Github = () => {
     <>
         <div>
             <div>
-                <div className="text-center p-5">
+                <div className="text-center p-5 space-y-5">
+                    <span>Enter github username to get information</span>
                     <input 
                     type="search"
                     placeholder="search here"
@@ -48,7 +49,7 @@ const Github = () => {
 
                 <div>
                     { userProfile && (
-                        <div className="profile-details space-y-2 border m-10 p-5">
+                        <div className="profile-details rounded-lg shadow space-y-2 border mx-auto max-w-lg w-10/12 p-5">
                             <img src={userProfile.avatar_url} alt={userProfile.name} width={100} className="mx-auto" />
                             <h2 className="font-bold text-lg">{userProfile.name}</h2>
                             <p><span className="font-bold text-lg">Bio:</span> <br />{userProfile.bio}</p>

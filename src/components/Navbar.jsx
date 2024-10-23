@@ -17,7 +17,7 @@ const Navbar = () => {
                     </a>
                 </div>
                 <div>
-                    <NavLink to="/" className=' bg-black p-2 rounded-lg hover:bg-gray-700 duration-200'>
+                    <NavLink to="/" className=' bg-black p-2 rounded-lg md:ml-52 lg:ml-96 hover:bg-gray-700 duration-200'>
                         <span>Home</span>
                     </NavLink>
                 </div>
