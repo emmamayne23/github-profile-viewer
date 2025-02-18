@@ -19,14 +19,13 @@ This app fetches and displays user information from the GitHub API. When you sea
   - Repository count
   - Location (if available)
   - Website (if available)
-  - Join date
 
 ## Technologies Used
 
 - React.js
 - Tailwind CSS
 - GitHub REST API
-- Vite (assumed build tool from `npm run dev` command)
+- Vite (build tool from `npm run dev` command)
 
 ## Getting Started
 
@@ -58,7 +57,7 @@ npm run dev
 ## How to Use
 
 1. Enter a valid GitHub username in the search bar
-2. Press Enter or click the search button
+2. Press Enter to then search for the user
 3. View the user's profile information displayed on the page
 
 ## API Usage
