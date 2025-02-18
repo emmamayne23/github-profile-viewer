@@ -6,7 +6,8 @@ A simple react web application that allows you to search for and view GitHub use
 
 This app fetches and displays user information from the GitHub API. When you search for a GitHub username, it shows you key details about that user's profile.
 
-![GitHub Profile Viewer Screenshot]("C:\Users\Imanuel_Mayne.IMANUEL-MAYNE\OneDrive\Pictures\Screenshots\github.site.png")
+![GitHub Profile Viewer Screenshot]
+![Screenshot 2025-02-18 161249](https://github.com/user-attachments/assets/bcee6184-4126-4588-9551-e3451d6ada41)
 
 ## Features
 
