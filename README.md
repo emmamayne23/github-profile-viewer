@@ -1,6 +1,6 @@
 # GitHub Profile Viewer
 
-A simple web application that allows you to search for and view GitHub user profiles.
+A simple react web application that allows you to search for and view GitHub user profiles.
 
 ## Overview
 
