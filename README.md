@@ -6,7 +6,7 @@ A simple web application that allows you to search for and view GitHub user prof
 
 This app fetches and displays user information from the GitHub API. When you search for a GitHub username, it shows you key details about that user's profile.
 
-![GitHub Profile Viewer Screenshot](https://path-to-your-screenshot.png)
+![GitHub Profile Viewer Screenshot]("C:\Users\Imanuel_Mayne.IMANUEL-MAYNE\OneDrive\Pictures\Screenshots\github.site.png")
 
 ## Features
 
